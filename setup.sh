@@ -44,6 +44,7 @@ sleep 2
 
 # Install applications via Cask
 # Remember some apps are better left managed on the app store
+brew cask install atom
 brew cask install 1password
 brew cask install airtable
 brew cask install dropbox
