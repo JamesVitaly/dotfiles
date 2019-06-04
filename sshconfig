@@ -4,7 +4,7 @@
 Host sgoudie
     User git
     HostName github.com
-    IdentityFile ~/.ssh/hello@sgoudie.com
+    IdentityFile ~/.ssh/you@youremail.com
 
 Host github.com
   Hostname ssh.github.com
