@@ -81,4 +81,4 @@ echo -e "${green}✓NPM packages installed.${reset}"
 sleep 2
 
 # Complete!
-echo -e "${yellow}★★★ ${green}Done! A whole mornings first from a single script. Nice job :) ! ${yellow}★★★${reset}"
+echo -e "${yellow}★★★ ${green}Done! A whole mornings work from a single script. Nice job :) ! ${yellow}★★★${reset}"
